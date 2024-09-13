@@ -14,7 +14,7 @@ Downloading Bioactivity Data
 
 Original code by: **Chanin Nantasenamat**
 
-[*'Data Professor' YouTube channel*](http://youtube.com/dataprofessor)
+[*'Data Professor'*](https://github.com/dataprofessor)
 
 ## **ChEMBL Database**
 
