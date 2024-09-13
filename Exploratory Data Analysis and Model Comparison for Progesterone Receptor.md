@@ -1,6 +1,6 @@
-﻿**Computational Drug Discovery against Human Progesterone Receptor**
+#﻿ **Computational Drug Discovery against Human Progesterone Receptor**
 
-**Aim of the project:** 
+##**Aim of the project:** 
 
 Exploratory data analysis to analyze descriptors for building a Quantitative Structure-Activity Relationship (QSAR) model for human progesterone receptor. Comparing and ranking various regression models based on their performance to generate an optimal model with close predicted and experimental values for progesterone receptor.
 
