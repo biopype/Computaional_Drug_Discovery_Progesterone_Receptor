@@ -222,8 +222,6 @@ Test set was prepared from 20% subset of the data. KNeighborsRegressor showed th
 |RANSACRegressor|-1406450438909158473334784.00|-837366446286955691900928.00|949688881519.97|1\.96|
 |Lars|-2044047148197643972710428093969380912660480.00|-1216976047770851657639056845675146923474944.00|1144892186851303096320.00|0\.12|
 
-#### **Data visualization of Model performance:**
-
 ## **Conclusions:**
 
 - Random Forest shows close correlation between experimental and predicted pIC50 values.
