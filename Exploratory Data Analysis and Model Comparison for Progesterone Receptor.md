@@ -82,21 +82,40 @@ We compared 40 different machine learning regressor models to test their perform
 
 According to the box plot, there is a statistically significant difference between the distributions of pIC50 values for the active and inactive compounds in our dataset. For Mann-Whitney U test, we can reject the null hypothesis H<sub>0</sub>, which says that there is no significant difference between pIC50 values of active and inactive molecules; low p-value (1.0089×10<sup>-72</sup>) rejects this hypothesis because it is lower than 0.05 (Patrick E. McKnight, 2010). 
 
+
+![image](https://github.com/user-attachments/assets/fd158c80-eabb-460a-82ff-94d4886b54ee)
+![image](https://github.com/user-attachments/assets/852dadfb-9c8b-4f31-8127-07b030ae625c)
+
+
+
 #### **Molecular weight assessment for bioactivity class:**
 
 For molecular weight (MW) descriptor we fail to reject the null hypothesis because p-value = 0.505, which means that our values are not statistically different. The box plot further confirms this as the values lie relatively in the same range.
+![image](https://github.com/user-attachments/assets/095c7c2c-2aab-44ee-994a-ae56849ba8f4)
+![image](https://github.com/user-attachments/assets/9d75b3bc-9e5c-4c78-ad9a-5a57aa65c084)
+
+
 
 #### **LogP assessment for bioactivity class:**
 
 LogP is a significant descriptor for our model as p-value for LogP is 0.000306, that is smaller than the alpha level (0.05).
 
+![image](https://github.com/user-attachments/assets/1c71458b-b962-414b-9bfb-f065553e2206)
+![image](https://github.com/user-attachments/assets/181f8e75-5a2e-4113-9122-523805721448)
+
+
 #### **Number of Hydrogen bond Acceptors:**
 
 NumHAcceptors is a significant descriptor for our model as p-value for NumHAcceptors is 0.000879, that is smaller than the alpha level (0.05).
+![image](https://github.com/user-attachments/assets/2d5d6288-e0b8-4df8-bb85-08d40a31f6e1)
+![image](https://github.com/user-attachments/assets/d96ad2e1-929b-4fc9-b31e-584540e94fb7)
 
 #### **Number of Hydrogen bond Donors:**
 
 NumHDonors is a not a significant descriptor for our model as p-value for NumHDonors is 0.181724, that is higher than the alpha level (0.05).
+![image](https://github.com/user-attachments/assets/bd034b5b-16af-4416-a765-8156ecb0060c)
+![image](https://github.com/user-attachments/assets/cc796574-379a-4a1e-92cf-4e87f61e3beb)
+
 
 #### **Scatter plot of predicted and experimental pIC50 values using Random Forest:**
 
