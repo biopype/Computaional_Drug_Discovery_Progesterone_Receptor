@@ -67,7 +67,7 @@ To build our random forest model, the input variable X is the fingerprints and o
 |Train (1384, 140)|Train (1384)|
 |Test (347, 140)|Test (347)|
 
-Random forest was built with a seed number of 100, so that the data is not randomized. The model score was 0.543.
+Random forest was built with a seed number of 100, so that the data is not randomized. The model score was 0.489.
 
 The scatter plot of experimental vs. predicted pIC50 values was obtained. 
 
