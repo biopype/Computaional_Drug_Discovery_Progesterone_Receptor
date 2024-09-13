@@ -14,7 +14,7 @@ Descriptor Calculation and Exploratory Data Analysis
 
 Original code by: **Chanin Nantasenamat**
 
-[*'Data Professor' YouTube channel*](http://youtube.com/dataprofessor)
+[*'Data Professor'*](https://github.com/dataprofessor)
 
 ## **Install conda and rdkit**
 """
