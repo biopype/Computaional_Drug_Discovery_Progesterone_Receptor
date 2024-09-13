@@ -1,4 +1,4 @@
-# **Computational Drug Discovery: Evaluating Descriptor Performance and Machine Learning Model Assessment for Progesterone Receptor**
+# **Computational Drug Discovery: Assessing Descriptor Performance and Machine Learning Models for Progesterone Receptor**
 
 ## **Aim of the project:** 
 
